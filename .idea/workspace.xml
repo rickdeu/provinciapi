@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1fcec19-a7ad-4f3a-a4ad-0dc28a4f229a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nHf5AyomNOxUyYpc0zQO7WbxFY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1fcec19-a7ad-4f3a-a4ad-0dc28a4f229a" name="Default Changelist" comment="" />
+      <created>1611051750424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611051750424</updated>
+    </task>
+    <task id="LOCAL-00001" summary="firs commit">
+      <created>1611051803967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611051803968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firs commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="27" width="871" height="741" key="CommitChangelistDialog2" timestamp="1611051803590">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="277" y="27" width="871" height="741" key="CommitChangelistDialog2/69.27.1297.741@69.27.1297.741" timestamp="1611051803590" />
+    <state x="548" y="322" key="Github.Dialog.Accounts.Choose" timestamp="1611051852008">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="548" y="322" key="Github.Dialog.Accounts.Choose/69.27.1297.741@69.27.1297.741" timestamp="1611051852008" />
+    <state x="312" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1611052065232">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="312" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/69.27.1297.741@69.27.1297.741" timestamp="1611052065232" />
   </component>
 </project>
